@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://favoritekk.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2020-12-05T17:32:25+07:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://favoritekk.github.io/resume/</loc>
+    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://favoritekk.github.io/ko/sitemap.xml</loc>
-    
-      <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://favoritekk.github.io/contact/</loc>
+    <lastmod>2019-12-17T23:58:33+09:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://favoritekk.github.io/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://favoritekk.github.io/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://favoritekk.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://favoritekk.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://favoritekk.github.io/misc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://favoritekk.github.io/programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://favoritekk.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://favoritekk.github.io/tags/</loc>
+  </url>
+  
+</urlset>
