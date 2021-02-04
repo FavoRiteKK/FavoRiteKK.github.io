@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hugo on A Software Engineer&#39;s Journal</title>
+    <link>https://favoritekk.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on A Software Engineer&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vankhiem583@gmail.com (Khiêm (Kenvin) Văn)</managingEditor>
+    <webMaster>vankhiem583@gmail.com (Khiêm (Kenvin) Văn)</webMaster>
+    <copyright>&amp;copy;{year} - favoritekk.github.io</copyright>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0700</lastBuildDate>
+    
+        <atom:link href="https://favoritekk.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>My First Post</title>
+        <link>https://favoritekk.github.io/programming/my-first-post/</link>
+        <pubDate>Mon, 14 Dec 2020 00:00:00 +0700</pubDate>
+        <author>vankhiem583@gmail.com (Khiêm (Kenvin) Văn)</author>
+        <atom:modified>Mon, 14 Dec 2020 00:00:00 +0700</atom:modified>
+        <guid>https://favoritekk.github.io/programming/my-first-post/</guid>
+        <description>This is my first post about creating a personal blog. I plan to create my own blog using a static site generator, and a free host service to host my created blog.
+I first tried to use Jekyll for generating my static site. But I found out I&amp;rsquo;m more familiar with Go language, so I decided to use Hugo - a build-website framework. And I&amp;rsquo;ll use Github Page to host my blog site, it&amp;rsquo;s totally free according to my plan.</description>
+        
+        <dc:creator>Kevin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>programming</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
